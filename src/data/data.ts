@@ -223,7 +223,7 @@ export const EcsNotas = [
     "Atividades": 2,
     "Extra": "-",
     "Prova": "-",
-    "Recuperação": "-",
+    "Recuperação": 8.5,
     "Total": 2,
     "Resultado": "RECUPERAÇÃO"
     },
@@ -423,9 +423,9 @@ export const EcsNotas = [
     "Atividades": 2,
     "Extra": "-",
     "Prova": "-",
-    "Recuperação": "-",
+    "Recuperação": 10,
     "Total": 2,
-    "Resultado": "RECUPERAÇÃO"
+    "Resultado": "APROVADO"
     },
     {
     "Nome": "Kauê Monteiro de Sousa",
@@ -563,9 +563,9 @@ export const EcsNotas = [
     "Atividades": "-",
     "Extra": "-",
     "Prova": "-",
-    "Recuperação": "-",
-    "Total": 0,
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": 8,
+    "Total": 8,
+    "Resultado": "APROVADO"
     },
     {
     "Nome": "Charles Nóbrega de Araújo Junior",
@@ -644,8 +644,8 @@ export const EcsNotas = [
     "Extra": "-",
     "Prova": "-",
     "Recuperação": "-",
-    "Total": 0,
-    "Resultado": "RECUPERAÇÃO"
+    "Total": 7,
+    "Resultado": "APROVADO"
     },
     {
     "Nome": "Erick dos santos",
@@ -723,9 +723,9 @@ export const EcsNotas = [
     "Atividades": 4.5,
     "Extra": "-",
     "Prova": "-",
-    "Recuperação": "-",
-    "Total": 4.5,
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": 7,
+    "Total": 7,
+    "Resultado": "APROVADO"
     },
     {
     "Nome": "Guilherme Levi Simião Gomes",
