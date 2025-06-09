@@ -225,7 +225,7 @@ export const EcsNotas = [
     "Prova": "-",
     "Recuperação": 8.5,
     "Total": 2,
-    "Resultado": "RECUPERAÇÃO"
+    "Resultado": "APROVADO"
     },
     {
     "Nome": "Yegor Benício Viana da Silva",
