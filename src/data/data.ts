@@ -854,10 +854,10 @@ export const EcsNotas = [
     "CPF": "39538826434",
     "Atividades": "-",
     "Extra": "-",
-    "Prova": "6,50",
+    "Prova": "7",
     "Recuperação": "-",
-    "Total": "6,50",
-    "Resultado": "RECUPERAÇÃO"
+    "Total": "7",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "Manoel Júlio Palmeira",
