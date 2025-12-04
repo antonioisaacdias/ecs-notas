@@ -11,7 +11,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "Adriel de Oliveira Pessoa",
-    "CPF": "",
+    "CPF": "17768553434",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "10",
@@ -90,8 +90,8 @@ export const EcsNotas = [
     "Resultado": "RECUPERAÇÃO"
   },
   {
-    "Nome": "Ariane Sol",
-    "CPF": "#N/A",
+    "Nome": "Ariane Sol Fernandes da Silva",
+    "CPF": "72061742483",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "9,5",
@@ -562,11 +562,11 @@ export const EcsNotas = [
   {
     "Nome": "Joabe Ryan Santos Ferreira",
     "CPF": "70220633460",
-    "Atividades": "-",
+    "Atividades": "2",
     "Extra": "-",
     "Prova": "2,00",
     "Recuperação": "-",
-    "Total": "2,00",
+    "Total": "4,00",
     "Resultado": "RECUPERAÇÃO"
   },
   {
@@ -831,7 +831,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "Luis Antônio Cardoso de Araújo",
-    "CPF": "71618299417",
+    "CPF": "14570773451",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "8,00",
@@ -1041,7 +1041,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "Miguel Augusto Silva de Araújo",
-    "CPF": "71741059470",
+    "CPF": "71618299417",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "7,50",
