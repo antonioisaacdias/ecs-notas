@@ -221,7 +221,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "Danielsom Gonçalves De Araújo Filho",
-    "CPF": "#N/A",
+    "CPF": "00140908480",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "10",
