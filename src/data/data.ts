@@ -601,7 +601,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "José Pedro Cardoso de Araújo",
-    "CPF": "71674850476",
+    "CPF": "14570805400",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "9,00",
@@ -721,7 +721,7 @@ export const EcsNotas = [
   },
   {
     "Nome": "Laura Nathyelli Silva Costa",
-    "CPF": "14570773451",
+    "CPF": "",
     "Atividades": "-",
     "Extra": "-",
     "Prova": "0,00",
