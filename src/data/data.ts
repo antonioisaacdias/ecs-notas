@@ -25,9 +25,9 @@ export const EcsNotas = [
     "Atividades": "-",
     "Extra": "-",
     "Prova": "5,00",
-    "Recuperação": "-",
-    "Total": "5,00",
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": "8,00",
+    "Total": "8,00",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "Ana Beatriz Vicente Lopes",
@@ -205,9 +205,9 @@ export const EcsNotas = [
     "Atividades": "-",
     "Extra": "-",
     "Prova": "5",
-    "Recuperação": "-",
-    "Total": "5",
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": "4,50",
+    "Total": "9,50",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "Daniel Vitor de Oliveira Cavalcante",
@@ -265,9 +265,9 @@ export const EcsNotas = [
     "Atividades": "-",
     "Extra": "-",
     "Prova": "0,00",
-    "Recuperação": "-",
-    "Total": "0,00",
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": "9,00",
+    "Total": "9,00",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "Dayenne Ferreira de Brito",
@@ -417,7 +417,7 @@ export const EcsNotas = [
     "Prova": "4",
     "Recuperação": "-",
     "Total": "4",
-    "Resultado": "RECUPERAÇÃO"
+    "Resultado": "REPROVADO"
   },
   {
     "Nome": "Gabriel Fragoso Valentim",
@@ -565,9 +565,9 @@ export const EcsNotas = [
     "Atividades": "2",
     "Extra": "-",
     "Prova": "2,00",
-    "Recuperação": "-",
-    "Total": "4,00",
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": "9,00",
+    "Total": "9,00",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "João de Brito Lira Neto",
@@ -1155,9 +1155,9 @@ export const EcsNotas = [
     "Atividades": "-",
     "Extra": "-",
     "Prova": "4,00",
-    "Recuperação": "-",
-    "Total": "4,00",
-    "Resultado": "RECUPERAÇÃO"
+    "Recuperação": "3",
+    "Total": "7,00",
+    "Resultado": "APROVADO"
   },
   {
     "Nome": "Pedro Henrique Brito Ramalho",
@@ -1438,5 +1438,15 @@ export const EcsNotas = [
     "Recuperação": "-",
     "Total": "1,00",
     "Resultado": "RECUPERAÇÃO"
+  },
+    {
+    "Nome": "Ana Luiza Dantas Alves",
+    "CPF": "1235258495",
+    "Atividades": "-",
+    "Extra": "-",
+    "Prova": "-",
+    "Recuperação": "10,00",
+    "Total": "10,00",
+    "Resultado": "APROVADO"
   }
 ]
